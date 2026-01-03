@@ -12,10 +12,54 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=riteshkr7578&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshkr7578&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+🚀 Featured Projects
+🔹 MoveEase – Smart Relocation Platform
+
+📦 A full-stack web platform to compare, book, and manage verified packers & movers.
+
+🔧 Tech Stack: MERN, Tailwind CSS, Firebase Auth
+
+⚡ Features: Real-time pricing, responsive UI, secure authentication
+
+🎯 Focused on solving real-world logistics problems
+
+🔗 Repo: https://github.com/riteshkr7578/MoveEase---The-smartway-to-move
+
+🌐 Live: https://move-ease-the-smartway-to-move.vercel.app/
+
+🔹 AI Chat Application (React + FastAPI)
+
+🤖 A modern AI-powered chat app with context-aware conversations.
+
+🧠 Multi-turn conversation memory
+
+📝 Markdown-based responses (code + explanations)
+
+🔗 Frontend–backend separation (React + FastAPI)
+
+🔗 Repo: https://github.com/riteshkr7578/TalkFusion
+
+🌐 Live: https://talk-fusion-gamma.vercel.app/
+
+
+
+🔹 Portfolio Website
+
+🌐 Personal developer portfolio showcasing projects and skills.
+
+⚙️ Built with modern frontend practices
+
+📱 Fully responsive & SEO-friendly
+
+🎨 Clean UI/UX design
+
+🔗 Repo: https://github.com/riteshkr7578/Ritesh_Portfolio_Website
+
+🌐 Live: https://riteshportfolio-beige.vercel.app/
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=riteshkr7578&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
