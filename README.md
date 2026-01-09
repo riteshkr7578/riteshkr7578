@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I’m Ritesh Kumar 👨‍💻<br>A passionate Full Stack Developer who loves building real-world, scalable web applications and continuously learning modern technologies.<br><br>🔭 I’m currently working on MERN stack<br>🤝 I’m looking to collaborate on full-stack web applications<br>💬 Ask me about React, Node.js, Express, MongoDB & Firebase<br>⚡ I love exploring new technologies and building real-world solutions<br><br>
-
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100017639884501) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritesh_chaurasiya11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-kumar-732535221) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/riteshc75786278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshkr75786278@gmail.com) 
