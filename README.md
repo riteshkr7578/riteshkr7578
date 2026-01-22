@@ -9,7 +9,7 @@ Hi, I’m Ritesh Kumar 👨‍💻<br>A passionate Full Stack Developer who love
 
 ## 🚀 Major Projects
 
-🏠 MoveEase – The Smart Way to Move
+#### 🏠 MoveEase – The Smart Way to Move
 
 A full-stack movers marketplace enabling seamless relocation with real-time pricing and secure role-based access.
 
@@ -32,7 +32,8 @@ Designed scalable REST APIs and optimized MongoDB queries for high-performance d
 ](https://github.com/riteshkr7578/MoveEase---The-smartway-to-move)
 
 
-🤖 Talk Fusion – Full Stack AI Chat Application
+
+#### 🤖 Talk Fusion – Full Stack AI Chat Application
 
 A real-time AI chat platform supporting multi-turn conversations with backend-managed AI workflows.
 
