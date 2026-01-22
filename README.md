@@ -30,6 +30,8 @@ Designed scalable REST APIs and optimized MongoDB queries for high-performance d
 
 📂 GitHub: [https://github.com/riteshkr7578/move-ease
 ](https://github.com/riteshkr7578/MoveEase---The-smartway-to-move)
+
+
 🤖 Talk Fusion – Full Stack AI Chat Application
 
 A real-time AI chat platform supporting multi-turn conversations with backend-managed AI workflows.
