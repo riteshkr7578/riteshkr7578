@@ -28,8 +28,8 @@ Designed scalable REST APIs and optimized MongoDB queries for high-performance d
 📅 Mar 2025 – Aug 2025
 🔗 Live: https://move-ease-the-smartway-to-move.vercel.app
 
-📂 GitHub: https://github.com/riteshkr7578/move-ease
-
+📂 GitHub: [https://github.com/riteshkr7578/move-ease
+](https://github.com/riteshkr7578/MoveEase---The-smartway-to-move)
 🤖 Talk Fusion – Full Stack AI Chat Application
 
 A real-time AI chat platform supporting multi-turn conversations with backend-managed AI workflows.
