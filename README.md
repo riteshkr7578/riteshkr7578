@@ -9,55 +9,47 @@ Hi, I’m Ritesh Kumar 👨‍💻<br>A passionate Full Stack Developer who love
 
 ## 🚀 Major Projects
 
-### 🏠 MoveEase – Smart Movers Marketplace  
-A full-stack web platform that connects users with verified packers & movers for hassle-free relocation.  
-**Tech Stack:** React, Node.js, Express, MongoDB, Firebase, Tailwind CSS  
-**Features:**
-- User & service-provider authentication  
-- Booking & quotation system  
-- Real-time status tracking  
-- Responsive and modern UI  
+🏠 MoveEase – The Smart Way to Move
 
-🔗 Live Demo: https://moveease.vercel.app  
-📂 GitHub Repo: https://github.com/riteshkr7578/move-ease  
+A full-stack movers marketplace enabling seamless relocation with real-time pricing and secure role-based access.
 
----
+Tech Stack: React, Node.js, Express.js, MongoDB, JWT Auth, Google Maps APIs, Tailwind CSS, Vercel, Render
 
-### 🤖 Talk Fusion – AI-Powered Chat Application  
-An intelligent real-time chat application with AI-assisted conversations.  
-**Tech Stack:** React, Node.js, MongoDB, Firebase, OpenAI API  
-**Features:**
-- Real-time messaging  
-- AI-based smart replies  
-- Secure authentication  
-- Clean, minimal UI  
+Key Contributions:
 
-📂 GitHub Repo: https://github.com/riteshkr7578/talk-fusion  
+Architected a production-ready full-stack marketplace with booking system, dashboards, and authentication flows
 
----
+Integrated Google Maps & Distance Matrix APIs for real-time distance calculation and automated pricing
 
-### 📊 AI Sensor CCTV – Smart Electricity Control  
-An AI-enabled CCTV-based system to optimize electricity usage automatically.  
-**Tech Stack:** Python, OpenCV, IoT Concepts  
-**Features:**
-- Motion-based detection  
-- Automatic power control  
-- Energy optimization logic  
+Implemented JWT-based role authentication with Express.js and MongoDB Atlas
 
-📂 GitHub Repo: https://github.com/riteshkr7578/ai-sensor-cctv  
+Designed scalable REST APIs and optimized MongoDB queries for high-performance deployment
 
----
+📅 Mar 2025 – Aug 2025
+🔗 Live: https://move-ease-the-smartway-to-move.vercel.app
 
-### 🧩 Basic 2D Graphics Editor (C++)  
-A desktop application to draw and manipulate basic geometric shapes.  
-**Tech Stack:** C++, Computer Graphics  
-**Features:**
-- Line, circle & rectangle drawing  
-- Coordinate system handling  
-- Event-driven interactions  
+📂 GitHub: https://github.com/riteshkr7578/move-ease
 
-📂 GitHub Repo: https://github.com/riteshkr7578/2d-graphics-editor  
+🤖 Talk Fusion – Full Stack AI Chat Application
 
+A real-time AI chat platform supporting multi-turn conversations with backend-managed AI workflows.
+
+Tech Stack: React (Vite), Tailwind CSS, Express.js, MongoDB, Groq AI, Axios, Render
+
+Key Contributions:
+
+Built a full-stack AI chat system supporting real-time, multi-turn conversational flows
+
+Integrated LLM APIs with backend-controlled prompt construction and context injection
+
+Engineered backend pipelines for AI response handling, error management, and rate-limit safety
+
+Designed a responsive, production-grade UI simulating real-world AI application behavior
+
+📅 Oct 2025 – Nov 2025
+🔗 Live: https://talk-fusion-chat.vercel.app
+
+📂 GitHub: https://github.com/riteshkr7578/talk-fusion
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
