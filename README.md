@@ -26,6 +26,7 @@ Implemented JWT-based role authentication with Express.js and MongoDB Atlas
 Designed scalable REST APIs and optimized MongoDB queries for high-performance deployment
 
 📅 Mar 2025 – Aug 2025
+
 🔗 Live: https://move-ease-the-smartway-to-move.vercel.app
 
 📂 GitHub: [https://github.com/riteshkr7578/move-ease
@@ -37,9 +38,9 @@ Designed scalable REST APIs and optimized MongoDB queries for high-performance d
 
 A real-time AI chat platform supporting multi-turn conversations with backend-managed AI workflows.
 
-Tech Stack: React (Vite), Tailwind CSS, Express.js, MongoDB, Groq AI, Axios, Render
+# Tech Stack: React (Vite), Tailwind CSS, Express.js, MongoDB, Groq AI, Axios, Render
 
-Key Contributions:
+# Key Contributions:
 
 Built a full-stack AI chat system supporting real-time, multi-turn conversational flows
 
@@ -50,9 +51,33 @@ Engineered backend pipelines for AI response handling, error management, and rat
 Designed a responsive, production-grade UI simulating real-world AI application behavior
 
 📅 Oct 2025 – Nov 2025
+
 🔗 Live: https://talk-fusion-chat.vercel.app
 
 📂 GitHub: https://github.com/riteshkr7578/talk-fusion
+
+
+
+## ✍️ BlogSphere – Full Stack Content Management Platform
+A feature-rich blogging ecosystem designed for professional content creation, featuring a full editorial workflow and social engagement tools.
+
+# Tech Stack: React (Vite), Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Multer, React Quill.
+
+# Key Contributions:
+
+Engineered an Editorial Workflow: Developed a complete lifecycle for content management, including draft/publish states and categorization (Tech, Lifestyle, etc.).
+
+Integrated Rich Text Processing: Implemented React Quill for professional content creation and Multer for handled featured image uploads.
+
+Secured User Architecture: Built a robust JWT-based authentication system with role-based authorization for post-management and social interactions.
+
+Developed Engagement Logic: Created backend systems for real-time like/unlike functionality and a moderated comment system with author-only deletion rights.
+
+Optimized Data Discovery: Designed search and filtering algorithms to allow users to efficiently browse posts by title, content, or category.
+
+📅 Dec 2025 – Jan 2026
+
+📂 GitHub: [https://github.com/riteshkr7578/talk-fusion](https://github.com/riteshkr7578/Blog-Platform-MERN)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
