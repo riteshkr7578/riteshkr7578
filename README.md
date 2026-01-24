@@ -9,13 +9,13 @@ Hi, I’m Ritesh Kumar 👨‍💻<br>A passionate Full Stack Developer who love
 
 ## 🚀 Major Projects
 
-#### 🏠 MoveEase – The Smart Way to Move
+### 🏠 MoveEase – The Smart Way to Move
 
 A full-stack movers marketplace enabling seamless relocation with real-time pricing and secure role-based access.
 
-Tech Stack: React, Node.js, Express.js, MongoDB, JWT Auth, Google Maps APIs, Tailwind CSS, Vercel, Render
+##### Tech Stack: React, Node.js, Express.js, MongoDB, JWT Auth, Google Maps APIs, Tailwind CSS, Vercel, Render
 
-Key Contributions:
+##### Key Contributions:
 
 Architected a production-ready full-stack marketplace with booking system, dashboards, and authentication flows
 
@@ -34,7 +34,7 @@ Designed scalable REST APIs and optimized MongoDB queries for high-performance d
 
 
 
-#### 🤖 Talk Fusion – Full Stack AI Chat Application
+### 🤖 Talk Fusion – Full Stack AI Chat Application
 
 A real-time AI chat platform supporting multi-turn conversations with backend-managed AI workflows.
 
@@ -58,12 +58,12 @@ Designed a responsive, production-grade UI simulating real-world AI application 
 
 
 
-## ✍️ BlogSphere – Full Stack Content Management Platform
+### ✍️ BlogSphere – Full Stack Content Management Platform
 A feature-rich blogging ecosystem designed for professional content creation, featuring a full editorial workflow and social engagement tools.
 
-# Tech Stack: React (Vite), Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Multer, React Quill.
+##### Tech Stack: React (Vite), Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Multer, React Quill.
 
-# Key Contributions:
+##### Key Contributions:
 
 Engineered an Editorial Workflow: Developed a complete lifecycle for content management, including draft/publish states and categorization (Tech, Lifestyle, etc.).
 
