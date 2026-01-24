@@ -38,9 +38,9 @@ Designed scalable REST APIs and optimized MongoDB queries for high-performance d
 
 A real-time AI chat platform supporting multi-turn conversations with backend-managed AI workflows.
 
-# Tech Stack: React (Vite), Tailwind CSS, Express.js, MongoDB, Groq AI, Axios, Render
+##### Tech Stack: React (Vite), Tailwind CSS, Express.js, MongoDB, Groq AI, Axios, Render
 
-# Key Contributions:
+##### Key Contributions:
 
 Built a full-stack AI chat system supporting real-time, multi-turn conversational flows
 
