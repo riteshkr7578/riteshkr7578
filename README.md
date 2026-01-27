@@ -79,6 +79,25 @@ Optimized Data Discovery: Designed search and filtering algorithms to allow user
 
 📂 GitHub: [https://github.com/riteshkr7578/talk-fusion](https://github.com/riteshkr7578/Blog-Platform-MERN)
 
+
+📝 Task Management System – Software Engineering Assessment
+A robust full-stack productivity tool engineered with a focus on type safety, relational data integrity, and secure session management.
+
+Tech Stack: Next.js (App Router), TypeScript, Tailwind CSS, Prisma ORM, MySQL, Node.js, Express, JWT.
+Key Contributions:
+Engineered Type-Safe Architecture: Utilized TypeScript across the entire stack and Prisma ORM to ensure end-to-end type safety and structured data modeling within a MySQL database.
+
+Architected Dual-Token Authentication: Implemented a secure JWT system featuring both Access and Refresh tokens, allowing for persistent user sessions and protected API routes.
+
+Developed Centralized State Management: Leveraged the React Context API to maintain a global authentication state, enabling dynamic UI transitions and conditional navigation logic.
+
+Built High-Performance CRUD Operations: Optimized task management logic with Prisma, including search and filtering capabilities, and a backend structure ready for large-scale pagination.
+
+Designed Responsive UI/UX: Crafted a clean, mobile-first interface using Tailwind CSS, featuring real-time user feedback via toast notifications and protected dashboard views.
+
+📅 Jan 2026
+
+📂 GitHub: https://github.com/riteshkr7578/Task-Management-System
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
