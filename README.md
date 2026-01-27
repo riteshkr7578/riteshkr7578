@@ -80,11 +80,11 @@ Optimized Data Discovery: Designed search and filtering algorithms to allow user
 📂 GitHub: [https://github.com/riteshkr7578/talk-fusion](https://github.com/riteshkr7578/Blog-Platform-MERN)
 
 
-📝 Task Management System – Software Engineering Assessment
+### 📝 Task Management System
 A robust full-stack productivity tool engineered with a focus on type safety, relational data integrity, and secure session management.
 
-Tech Stack: Next.js (App Router), TypeScript, Tailwind CSS, Prisma ORM, MySQL, Node.js, Express, JWT.
-Key Contributions:
+#### Tech Stack: Next.js (App Router), TypeScript, Tailwind CSS, Prisma ORM, MySQL, Node.js, Express, JWT.
+#### Key Contributions:
 Engineered Type-Safe Architecture: Utilized TypeScript across the entire stack and Prisma ORM to ensure end-to-end type safety and structured data modeling within a MySQL database.
 
 Architected Dual-Token Authentication: Implemented a secure JWT system featuring both Access and Refresh tokens, allowing for persistent user sessions and protected API routes.
