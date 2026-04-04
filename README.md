@@ -17,13 +17,19 @@ Tech Stack: React, Node.js, Express.js, MongoDB, JWT, Razorpay, Google Maps APIs
 
 Key Contributions:
 
-Designed and developed a production-ready MERN marketplace with end-to-end booking flow, role-based dashboards (Customer, Mover, Admin), and secure authentication
+Designed and developed a production-ready MERN marketplace with end-to-end booking flow, role-based dashboards (Customer, Mover, Admin), and secure authentication.
+
 Built a dynamic pricing engine using Google Distance Matrix API
 Calculates cost as: Base Price + (Distance × Rate/km).
-Implemented secure payment integration with Razorpay, including backend signature verification and support for both online payment and COD
+
+Implemented secure payment integration with Razorpay, including backend signature verification and support for both online payment and COD.
+
 Engineered a commission-based system (10% platform fee) with automated earnings distribution and mover wallet (ledger) tracking.
+
 Developed scalable RESTful APIs with JWT-based authentication and role-based access control (RBAC).
+
 Optimized MongoDB schema and queries for efficient booking management and high-performance data retrieval.
+
 Structured backend using modular architecture (models, routes, middleware) for maintainability and scalability.
 
 📅 Mar 2025 – Aug 2025
