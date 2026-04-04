@@ -9,21 +9,22 @@ Hi, I’m Ritesh Kumar 👨‍💻<br>A passionate Full Stack Developer who love
 
 ## 🚀 Major Projects
 
-### 🏠 MoveEase – The Smart Way to Move
+###1. 🏠 MoveEase – Logistics & Relocation Platform
 
-A full-stack movers marketplace enabling seamless relocation with real-time pricing and secure role-based access.
+A full-stack logistics marketplace that connects customers with verified movers, featuring real-time distance-based pricing, secure payments, and role-based dashboards.
 
-##### Tech Stack: React, Node.js, Express.js, MongoDB, JWT Auth, Google Maps APIs, Tailwind CSS, Vercel, Render
+Tech Stack: React, Node.js, Express.js, MongoDB, JWT, Razorpay, Google Maps APIs, Tailwind CSS, Vercel, Render
 
-##### Key Contributions:
+Key Contributions:
 
-Architected a production-ready full-stack marketplace with booking system, dashboards, and authentication flows
-
-Integrated Google Maps & Distance Matrix APIs for real-time distance calculation and automated pricing
-
-Implemented JWT-based role authentication with Express.js and MongoDB Atlas
-
-Designed scalable REST APIs and optimized MongoDB queries for high-performance deployment
+Designed and developed a production-ready MERN marketplace with end-to-end booking flow, role-based dashboards (Customer, Mover, Admin), and secure authentication
+Built a dynamic pricing engine using Google Distance Matrix API
+Calculates cost as: Base Price + (Distance × Rate/km).
+Implemented secure payment integration with Razorpay, including backend signature verification and support for both online payment and COD
+Engineered a commission-based system (10% platform fee) with automated earnings distribution and mover wallet (ledger) tracking.
+Developed scalable RESTful APIs with JWT-based authentication and role-based access control (RBAC).
+Optimized MongoDB schema and queries for efficient booking management and high-performance data retrieval.
+Structured backend using modular architecture (models, routes, middleware) for maintainability and scalability.
 
 📅 Mar 2025 – Aug 2025
 
@@ -34,7 +35,7 @@ Designed scalable REST APIs and optimized MongoDB queries for high-performance d
 
 
 
-### 🤖 Talk Fusion – Full Stack AI Chat Application
+###2. 🤖 Talk Fusion – Full Stack AI Chat Application
 
 A real-time AI chat platform supporting multi-turn conversations with backend-managed AI workflows.
 
@@ -58,7 +59,7 @@ Designed a responsive, production-grade UI simulating real-world AI application 
 
 
 
-### ✍️ BlogSphere – Full Stack Content Management Platform
+###3. ✍️ BlogSphere – Full Stack Content Management Platform
 A feature-rich blogging ecosystem designed for professional content creation, featuring a full editorial workflow and social engagement tools.
 
 ##### Tech Stack: React (Vite), Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Multer, React Quill.
@@ -80,7 +81,7 @@ Optimized Data Discovery: Designed search and filtering algorithms to allow user
 📂 GitHub: [https://github.com/riteshkr7578/talk-fusion](https://github.com/riteshkr7578/Blog-Platform-MERN)
 
 
-### 📝 Task Management System
+###4. 📝 Task Management System
 A robust full-stack productivity tool engineered with a focus on type safety, relational data integrity, and secure session management.
 
 #### Tech Stack: Next.js (App Router), TypeScript, Tailwind CSS, Prisma ORM, MySQL, Node.js, Express, JWT.
