@@ -9,7 +9,7 @@ Hi, I’m Ritesh Kumar 👨‍💻<br>A passionate Full Stack Developer who love
 
 ## 🚀 Major Projects
 
-###1. 🏠 MoveEase – Logistics & Relocation Platform
+### 1. 🏠 MoveEase – Logistics & Relocation Platform
 
 A full-stack logistics marketplace that connects customers with verified movers, featuring real-time distance-based pricing, secure payments, and role-based dashboards.
 
@@ -41,7 +41,7 @@ Structured backend using modular architecture (models, routes, middleware) for m
 
 
 
-###2. 🤖 Talk Fusion – Full Stack AI Chat Application
+### 2. 🤖 Talk Fusion – Full Stack AI Chat Application
 
 A real-time AI chat platform supporting multi-turn conversations with backend-managed AI workflows.
 
@@ -65,7 +65,7 @@ Designed a responsive, production-grade UI simulating real-world AI application 
 
 
 
-###3. ✍️ BlogSphere – Full Stack Content Management Platform
+### 3. ✍️ BlogSphere – Full Stack Content Management Platform
 A feature-rich blogging ecosystem designed for professional content creation, featuring a full editorial workflow and social engagement tools.
 
 ##### Tech Stack: React (Vite), Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Multer, React Quill.
@@ -87,7 +87,7 @@ Optimized Data Discovery: Designed search and filtering algorithms to allow user
 📂 GitHub: [https://github.com/riteshkr7578/talk-fusion](https://github.com/riteshkr7578/Blog-Platform-MERN)
 
 
-###4. 📝 Task Management System
+### 4. 📝 Task Management System
 A robust full-stack productivity tool engineered with a focus on type safety, relational data integrity, and secure session management.
 
 #### Tech Stack: Next.js (App Router), TypeScript, Tailwind CSS, Prisma ORM, MySQL, Node.js, Express, JWT.
