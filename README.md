@@ -84,7 +84,9 @@ Optimized Data Discovery: Designed search and filtering algorithms to allow user
 
 📅 Dec 2025 – Jan 2026
 
+🔗 Live: https://blogsphere-psi.vercel.app
 📂 GitHub: [https://github.com/riteshkr7578/talk-fusion](https://github.com/riteshkr7578/Blog-Platform-MERN)
+
 
 
 ### 4. 📝 Task Management System
