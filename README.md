@@ -34,7 +34,7 @@ Structured backend using modular architecture (models, routes, middleware) for m
 
 📅 Mar 2025 – Aug 2025
 
-🔗 Live: https://move-ease-the-smartway-to-move.vercel.app
+🔗 Live: https://mvease.vercel.app
 
 📂 GitHub: [https://github.com/riteshkr7578/move-ease
 ](https://github.com/riteshkr7578/MoveEase---The-smartway-to-move)
